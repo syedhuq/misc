@@ -1,1 +1,16 @@
-# misc
+<html>
+<head>
+<title>
+how you wanna know karlos
+</title>
+</head>
+<body>
+<h2>zexous</h2>
+<applet
+codebase="https://github.com/syedhuq/misc/raw/master/" 
+archive="blob.jar" 
+code="blob.class"  
+width=300 height=200>
+</applet>
+</body>
+</html>
